@@ -39,6 +39,16 @@ Graphs displayed side-by-side for further details:
 
 ![smoker vs non-smoker hist2](https://github.com/user-attachments/assets/b33c312f-9828-4c2a-9c8c-3d7524cd3847)
 
+Detail of each histogram:
+
+![whole_dataset_tip_value](https://github.com/user-attachments/assets/8fb1cb72-6280-409e-8fb3-2244036e16e2)
+
+
+![smoker_tip_value](https://github.com/user-attachments/assets/a76125b2-ff48-43fb-8912-a6b25947d1f8)
+
+
+![non-smoker_tip_value](https://github.com/user-attachments/assets/1ac0f353-aa00-42b4-a3a6-002370fa7189)
+
 **So what can we get?**
 
 In term of tip amount, Smokers group has higher tip amount, incomparison to average tip gave by all cusomters. $ 3.0 is the amount give by smokers the most. On the other hand, non-smokers have lower average common tip amount, in comparison to Smoker ones. They normally spend $ 2.74 for tipping.
@@ -57,12 +67,23 @@ Link : https://colab.research.google.com/drive/1BOeW24LI2IGgloc0pOFY8XXlE8rBTIn7
 |  mean  | 2.833448 |   2.833448 |  3.089618 |
 | median | 2.750000 |   2.750000 |  3.000000 |
 
+![whole_dataset_tip_value](https://github.com/user-attachments/assets/8fb1cb72-6280-409e-8fb3-2244036e16e2)
+
+![female_tip_value](https://github.com/user-attachments/assets/2d971b40-137b-4355-9851-78c1745a2afa)
+
+![male_tip_value](https://github.com/user-attachments/assets/cecc8511-709c-4610-ad67-30f79bc110af)
+
 Overlapping histograms of the 3:
 
+![female vs male hist-overlap](https://github.com/user-attachments/assets/2ddacd15-46f6-4e31-aab4-b4e74c78493d)
 
-Histograms:
+
+![female vs male hist side-by-side](https://github.com/user-attachments/assets/2e5fb57a-f1e9-4df5-a1e1-8285efd83eaa)
+
+Insight: Male customers do give higher tips; and they tend to tip more frequently when they use the service, in comparison to Female customers.
    
 _3. Bills on Weekend vs Bill on Weekdays analysis findings:_
+
 _5. Dinner vs Other meals analysis findings:_
 
    (to be continue)

@@ -84,6 +84,51 @@ Insight: Male customers do give higher tips; and they tend to tip more frequentl
    
 _3. Bills on Weekend vs Bill on Weekdays analysis findings:_
 
+|        |    Common | Weeknd_tip | Weekday_tip |
+|-------:|----------:|-----------:|------------:|
+|   min  |  1.000000 |   1.000000 |     1.00000 |
+|   max  | 10.000000 |  10.000000 |     6.70000 |
+|  mean  |  2.998279 |   3.115276 |     2.76284 |
+| median |  2.900000 |   3.000000 |     2.50000 |
+
+
+![weekend_tip_value](https://github.com/user-attachments/assets/910aa9bd-d79c-48a3-8f5f-cec16b0571d6)
+
+
+![weekday_tip_value](https://github.com/user-attachments/assets/f4e07a90-8e4b-44cf-916e-649932b2d23d)
+
+
+![weekend vs weekday hist side-by-side](https://github.com/user-attachments/assets/f3ec915e-500b-4e11-b518-5c7f106758f4)
+7)
+
+Overlapping histograms of the 3:
+
+![weekend vs weekday hist-overlap](https://github.com/user-attachments/assets/07bb9ec4-73f0-4b55-b3a5-dff1bcf3263
+
+Insight: The restaurant will gain more tips on weekend, in deed. The difference in amount of tips received in weeknd is extreme. Restaurant owners should think about solutions to increase the occupancy in weekends to take advantage of this point.  
+
 _5. Dinner vs Other meals analysis findings:_
 
-   (to be continue)
+|        |    Common | Dinner_tip | Other_meal_tip |
+|-------:|----------:|-----------:|---------------:|
+|   min  |  1.000000 |    1.00000 |       1.250000 |
+|   max  | 10.000000 |   10.00000 |       6.700000 |
+|  mean  |  2.998279 |    3.10267 |       2.728088 |
+| median |  2.900000 |    3.00000 |       2.250000 |
+
+
+
+![Dinner_tip_value](https://github.com/user-attachments/assets/981a706f-4453-4a5d-bf08-8836cbcb2cd9)
+
+![Other-meal_tip_value](https://github.com/user-attachments/assets/40a8bc58-5293-447c-862b-9fc615303d69)
+
+
+![dinner vs other-meals hist side-by-side](https://github.com/user-attachments/assets/145fe3a9-f22c-41a3-9a5a-1d79cf038377)
+
+Overlapping histograms of the 3:
+
+![dinner vs other-meal hist-overlap](https://github.com/user-attachments/assets/e1145537-15e1-421a-9bad-8ce27532f353)
+
+Insight:
+Customers of this restaurant tend to give more tip for Dinner, in comparison to other meals of a day. Restaurant owner can think about methods to increase the customer experience or service quality for other meals of day to increase the tipping.
+

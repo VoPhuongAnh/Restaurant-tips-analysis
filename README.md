@@ -84,6 +84,8 @@ Insight: Male customers do give higher tips; and they tend to tip more frequentl
    
 _3. Bills on Weekend vs Bill on Weekdays analysis findings:_
 
+We take a look on comparison table containing measures of central tendency of the tip amount on weekend and weekdays, comparing to the tip of whole dataset:
+
 |        |    Common | Weeknd_tip | Weekday_tip |
 |-------:|----------:|-----------:|------------:|
 |   min  |  1.000000 |   1.000000 |     1.00000 |
@@ -109,6 +111,8 @@ Insight: The restaurant will gain more tips on weekend, in deed. The difference 
 
 _5. Dinner vs Other meals analysis findings:_
 
+From the table below, we are comparing the central tendency measures of tip gained in Dinner meals , in comparison to other meals of the day and to the whole dataset:
+
 |        |    Common | Dinner_tip | Other_meal_tip |
 |-------:|----------:|-----------:|---------------:|
 |   min  |  1.000000 |    1.00000 |       1.250000 |
@@ -129,6 +133,8 @@ Overlapping histograms of the 3:
 
 ![dinner vs other-meal hist-overlap](https://github.com/user-attachments/assets/e1145537-15e1-421a-9bad-8ce27532f353)
 
-Insight:
-Customers of this restaurant tend to give more tip for Dinner, in comparison to other meals of a day. Restaurant owner can think about methods to increase the customer experience or service quality for other meals of day to increase the tipping.
+Insight: Customers of this restaurant tend to give more tip for Dinner, in comparison to other meals of a day. Restaurant owner can think about methods to increase the customer experience or service quality for other meals of day to increase the tipping.
 
+### Findings Summary:
+
+In conclusion, this restaurant seems to gain more tips when they open on weekends rather than weekdays. Customers seems to give more tip in Dinner rather than other meals of the day. Among their customers, male and smokers tend to be more generous in tipping, in comparison to female and non-smokers customers. $2,9 - $3 seems to be the most common reange of tip amount that customers server for the serivces of this restaurant. 

@@ -1,7 +1,10 @@
 
 # PRACTICE PROJECT
 
-### Session-5.4-Restaurant-tips-analysis
+### Project name
+
+Restaurant-tips-analysis
+
 #### This project is to analize the relationships between various factors to the tip amount received from customers of the restaurant. 
 ### A - Data description and usage
 1. Source of the data
